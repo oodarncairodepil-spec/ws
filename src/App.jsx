@@ -91,8 +91,10 @@ function App() {
           </header>
 
           {/* Main Content */}
-          <main className="flex-1 container-mobile">
-            {renderActiveComponent()}
+          <main className="flex-1 container-mobile pb-20 sm:pb-0">
+            <div className="p-4 sm:p-6">
+              {renderActiveComponent()}
+            </div>
           </main>
         </div>
 
