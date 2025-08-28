@@ -1,0 +1,89 @@
+{
+    "FireCrystalFurnace": [
+        {
+            "Level": "30-1",
+            "Prerequisites": [
+                "Embassy Lv. 30",
+                "Research Center Lv. 30"
+            ],
+            "BuildCost": {
+                "Meat": 67000000,
+                "Wood": 67000000,
+                "Coal": 13000000,
+                "Iron": 3300000,
+                "FireCrystals": 132,
+                "RefinedFireCrystals": 0
+            },
+            "ConstructionTime": "7d 00:00:00",
+            "BuildingPower": 1580900
+        },
+        {
+            "Level": "30-2",
+            "Prerequisites": [
+                "Embassy Lv. 30",
+                "Research Center Lv. 30"
+            ],
+            "BuildCost": {
+                "Meat": 67000000,
+                "Wood": 67000000,
+                "Coal": 13000000,
+                "Iron": 3300000,
+                "FireCrystals": 132,
+                "RefinedFireCrystals": 0
+            },
+            "ConstructionTime": "7d 00:00:00",
+            "BuildingPower": 1638300
+        },
+        {
+            "Level": "30-3",
+            "Prerequisites": [
+                "Embassy Lv. 30",
+                "Research Center Lv. 30"
+            ],
+            "BuildCost": {
+                "Meat": 67000000,
+                "Wood": 67000000,
+                "Coal": 13000000,
+                "Iron": 3300000,
+                "FireCrystals": 132,
+                "RefinedFireCrystals": 0
+            },
+            "ConstructionTime": "7d 00:00:00",
+            "BuildingPower": 1695700
+        },
+        {
+            "Level": "30-4",
+            "Prerequisites": [
+                "Embassy Lv. 30",
+                "Research Center Lv. 30"
+            ],
+            "BuildCost": {
+                "Meat": 67000000,
+                "Wood": 67000000,
+                "Coal": 13000000,
+                "Iron": 3300000,
+                "FireCrystals": 132,
+                "RefinedFireCrystals": 0
+            },
+            "ConstructionTime": "7d 00:00:00",
+            "BuildingPower": 1753100
+        },
+        {
+            "Level": "FC 1",
+            "Prerequisites": [
+                "Embassy Lv. 30",
+                "Research Center Lv. 30"
+            ],
+            "BuildCost": {
+                "Meat": 67000000,
+                "Wood": 67000000,
+                "Coal": 13000000,
+                "Iron": 3300000,
+                "FireCrystals": 132,
+                "RefinedFireCrystals": 0
+            },
+            "ConstructionTime": "7d 00:00:00",
+            "BuildingPower": 1810500
+        }
+    ]
+}
